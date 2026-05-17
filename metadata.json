@@ -1,0 +1,6 @@
+{
+  "name": "Parrilla Podología - Citas",
+  "description": "Sistema moderno e intuitivo de gestión de citas para la Clínica de Podología Parrilla, diseñado para una experiencia de usuario fluida y profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
